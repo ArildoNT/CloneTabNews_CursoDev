@@ -4,7 +4,7 @@
   "description": "Repositório para fins de estudo e desenvolvimento pessoal seguindo as diretrizes do Curso.dev",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "next dev"
   },
   "author": "",
   "license": "MIT",
